@@ -8,7 +8,7 @@
   },
   "author": "james.byess@gmail.com",
   "license": "ISC",
-  "bin" : {
+  "bin": {
     "jimmy-resume": "./index.js"
   }
 }
