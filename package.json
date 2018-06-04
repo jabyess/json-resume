@@ -1,0 +1,14 @@
+{
+  "name": "jabyess-resume",
+  "version": "1.0.0",
+  "description": "jimmys resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "james.byess@gmail.com",
+  "license": "ISC",
+  "bin" : {
+    "jimmy-resume": "./index.js"
+  }
+}

@@ -1,0 +1,20 @@
+{
+	"name": "jimmy",
+	"website": "jabyess.com",
+	"linkedin": "idk",
+	"github" : "jabyess",
+	"email": "james.byess@gmail.com",
+	"technologies": [
+		"html",
+		"css",
+		"javascript",
+		"nodejs",
+		"php",
+		"ruby",
+		"python",
+		"mongodb",
+		"sql"
+	],
+	"other-skills": ["teaching", "baking", "cycling", "eating a lot"]
+}
+
